@@ -1,0 +1,7 @@
+{
+    "HumanName": {
+        "url": "URL.TO.NAGIOS.SERVER/nagios-api",
+        "port": "",
+        "nagurl": "URL.TO.NAGIOS.SERVER"
+    }
+}
